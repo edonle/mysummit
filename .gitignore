@@ -1,0 +1,17 @@
+database.yml
+*~
+*.swp
+*.cache
+*.log
+*.pid
+tmp/**/*
+.DS\_Store
+db/cstore/**
+db/schema.rb
+doc/api
+doc/app
+doc/plugins
+coverage/*
+db/*.sqlite3
+*.tmproj
+Capfile
